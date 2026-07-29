@@ -1,4 +1,4 @@
-def printer(day) -> None:
+def printer(day: int) -> None:
     if day > 1:
         printer(day - 1)
     print(f"Day {day}")
