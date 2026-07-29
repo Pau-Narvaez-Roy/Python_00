@@ -1,6 +1,6 @@
 # Python_00
 
-*This project has been created as part of the 42 curriculum by [Pau-Narvaez-Roy](https://github.com/Pau-Narvaez-Roy).*
+*This project has been created as part of the 42 curriculum by [pnarvaez](https://github.com/Pau-Narvaez-Roy).*
 
 ---
 
@@ -54,7 +54,6 @@ This module is organized into 8 exercises (ex0 through ex7), each focusing on sp
 1. Clone the repository:
 ```bash
 git clone git@github.com:Pau-Narvaez-Roy/Python_00.git
-cd Python_00
 ```
 
 2. Verify Python installation:
@@ -83,15 +82,14 @@ Hello, Garden Community!
 
 ```
 Python_00/
-├── ex0/                    # Basic Introduction
-│   └── ft_hello_garden.py
-├── ex1/                    # String Formatting
-├── ex2/                    # Data Structures
-├── ex3/                    # Iteration & Counting
-├── ex4/                    # Conditionals
-├── ex5/                    # Functions
-├── ex6/                    # Collections
-├── ex7/                    # Advanced Concepts
+├── ex0/                   
+├── ex1/                    
+├── ex2/                    
+├── ex3/                    
+├── ex4/                    
+├── ex5/                    
+├── ex6/                   
+├── ex7/                   
 ├── README.md              # This file
 └── .gitignore
 ```
